@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML - https://goodboyanush.github.io/
+ML 1 - https://medium.com/@vaishakh.nambiar10/machine-learning-bcc5060e504c
 
 ## Course Overview
 
