@@ -11,6 +11,8 @@ ML 1 - https://medium.com/@vaishakh.nambiar10/machine-learning-bcc5060e504c
 
 ML 2 - https://medium.com/@vaishakh.nambiar10/linear-regression-vs-logistic-regression-6703f570bac7
 
+Coding Done.
+
 ML 3 - https://medium.com/@vaishakh.nambiar10/neural-network-900ea28eff48
 
 ## Course Overview
