@@ -15,6 +15,8 @@ Coding Done.
 
 ML 3 - https://medium.com/@vaishakh.nambiar10/neural-network-900ea28eff48
 
+ML Assignment - https://github.com/vaisakhnambiar/ISME-Machine-Learning
+
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
