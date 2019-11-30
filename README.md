@@ -17,6 +17,8 @@ ML 3 - https://medium.com/@vaishakh.nambiar10/neural-network-900ea28eff48
 
 ML Assignment - https://github.com/vaisakhnambiar/ISME-Machine-Learning
 
+ML 4 - https://medium.com/@vaishakh.nambiar10/kernel-trick-svm-1f1f01f89fd
+
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
