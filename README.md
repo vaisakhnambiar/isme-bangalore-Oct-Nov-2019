@@ -21,6 +21,7 @@ ML 4 - https://medium.com/@vaishakh.nambiar10/kernel-trick-svm-1f1f01f89fd
 
 ML 5 - https://medium.com/@vaishakh.nambiar10/decision-trees-random-forest-7efc8f212536
 
+ML End-Term Project - https://github.com/vaisakhnambiar/ISME-Machine-Learning
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
